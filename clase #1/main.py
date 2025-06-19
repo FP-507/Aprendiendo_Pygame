@@ -1,7 +1,7 @@
 import pygame 
 import constantes as cons
 from personaje import Personaje
-import pygame.docs
+
 
 #creamos una instancia de Personaje 
 player = Personaje(50,50)
